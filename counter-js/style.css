@@ -1,0 +1,39 @@
+.container {
+  padding-top: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Lucida Console', 'Courier New', monospace;
+}
+
+.container2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Lucida Console', 'Courier New', monospace;
+}
+
+.buttonGroup {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Lucida Console', 'Courier New', monospace;
+}
+
+button {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border: 1px solid green;
+  font-size: 16px;
+  border-radius: 12px;
+  margin-left: 10px;
+}
+button:hover {
+  background-color: #087c0c; /* Green */
+  color: white;
+}
