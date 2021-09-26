@@ -1,5 +1,7 @@
 # A collection of Javascript practice projects
 
+By Fergus Thomas
+
 **List of projects**
 
 - colour-flipper-js
