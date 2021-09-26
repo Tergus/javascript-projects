@@ -10,4 +10,4 @@ By Fergus Thomas
 - navbar-js
 - restaurant-menu-js
 
-Using this guide: https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-modal
+Using this guide: https://www.freecodecamp.org/news/javascript-projects-for-beginners
